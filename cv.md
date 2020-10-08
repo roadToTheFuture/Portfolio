@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 
-## Ilya Safyan  22 y.o.	
+## Ilya Safyan  | 22 y.o. |	
 
 <img src="https://sun2.velcom-by-minsk.userapi.com/1IiIMqtsTZkq60zIY72j6gLUWk5suKLW_c8SJg/_wZjoVXD64Y.jpg" style="zoom: 67%;" />  
 
@@ -59,7 +59,7 @@ function disemvowel(str) { // "This website is for losers LOL!"
   | ------------------------------------------------------------ |
   | Git Hub: [@roadToTheFuture](https://github.com/roadToTheFuture/webdev) |
   | Deployed: https://roadtothefuture-webdev.netlify.app/        |
-  | ![image-20201008111634649](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20201008111634649.png) |
+  | ![image-20201008111634649](img/layout.jpg)                   |
 
 
 
@@ -67,7 +67,7 @@ function disemvowel(str) { // "This website is for losers LOL!"
   | :----------------------------------------------------------- |
   | Git Hub : [@roadToTheFuture](https://github.com/rolling-scopes-school/roadtothefuture-JS2020Q3/tree/calculator/calculator) |
   | Deployed: https://roadtothefuture-calculator.netlify.app/    |
-  | ![image-20201008110854143](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20201008110854143.png) |
+  | ![image-20201008110854143](img/calculator.jpg)               |
 
 
 
@@ -75,13 +75,13 @@ function disemvowel(str) { // "This website is for losers LOL!"
   | ------------------------------------------------------------ |
   | Git Hub : [@roadToTheFuture](https://github.com/roadToTheFuture/Projects/tree/master/KeyBoard) |
 | Deployed:  https://roadtothefuture-keyboard-first.netlify.app/ |
-  | <img src="C:\Users\User\Pictures\Screenshot_2.jpg" style="zoom:80%;" /> |
+  | <img src="img/keyboard.jpg" />                               |
   
 - | Take Weather from API (native js)                            |
   | :----------------------------------------------------------- |
   | Git Hub: [@roadToTheFuture](https://github.com/roadToTheFuture/Projects/tree/master/ApiWeather) |
 | Deploy: https://roadtothefuture-api-weather.netlify.app/     |
-  | <img src="C:\Users\User\Pictures\Screenshot_1.jpg" style="zoom: 67%;" /> |
+  | <img src="img/weather.jpg" />                                |
 
   ## Education 
   
