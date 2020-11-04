@@ -34,32 +34,20 @@ While studying at the university, I took part in the competition for the best la
 
 I've written can be seen at my github account: [@roadToTheFuture](https://github.com/roadToTheFuture/Basic-Js-Exercices)
 
-### last tasks in codewars: 
+###  Codewars: 
 
-```javascript
-// Task is to write a function that takes a string and return a new string with all vowels removed.
-
-function disemvowel(str) { // "This website is for losers LOL!"
-  let vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
-  let newStr = '';
-  
-  for (let i = 0 ; i<str.length; i++){
-    let char = str[i];
-    if(vowels.indexOf(char) == -1){
-      newStr += char;
-    }
-  }
-  return newStr; // "Ths wbst s fr lsrs LL!"
-}
-```
+- | Nick: ibot                                   |
+  | -------------------------------------------- |
+  | Account: https://www.codewars.com/users/ibot |
+  | ![progress](img/codeWars.jpg)                |
 
 ## Experience
 
-- | Pixel Perfect layout                                         |
+- | Simple Pixel Perfect layout                                  |
   | ------------------------------------------------------------ |
-  | Git Hub: [@roadToTheFuture](https://github.com/roadToTheFuture/webdev) |
-  | Deployed: https://roadtothefuture-webdev.netlify.app/        |
-  | ![image-20201008111634649](img/layout.jpg)                   |
+  | Git Hub: [@roadToTheFuture](https://github.com/rolling-scopes-school/roadtothefuture-JS2020Q3/tree/shelter) |
+  | Deployed: https://roadtothefuture-shelter.netlify.app/       |
+  | ![image-20201008111634649](img/shelter.jpg)                  |
 
 
 
@@ -73,15 +61,15 @@ function disemvowel(str) { // "This website is for losers LOL!"
 
 - | Keyboard (native js)                                         |
   | ------------------------------------------------------------ |
-  | Git Hub : [@roadToTheFuture](https://github.com/roadToTheFuture/Projects/tree/master/KeyBoard) |
-| Deployed:  https://roadtothefuture-keyboard-first.netlify.app/ |
+  | Git Hub : [@roadToTheFuture](https://github.com/rolling-scopes-school/roadtothefuture-JS2020Q3/tree/virtual-keyboard) |
+| Deployed: https://roadtothefuture-virtual-keyboard.netlify.app/ |
   | <img src="img/keyboard.jpg" />                               |
   
-- | Take Weather from API (native js)                            |
+- | Work with: weather API & joke API & Date                     |
   | :----------------------------------------------------------- |
-  | Git Hub: [@roadToTheFuture](https://github.com/roadToTheFuture/Projects/tree/master/ApiWeather) |
-| Deploy: https://roadtothefuture-api-weather.netlify.app/     |
-  | <img src="img/weather.jpg" />                                |
+  | Git Hub: [@roadToTheFuture](https://github.com/rolling-scopes-school/roadtothefuture-JS2020Q3/tree/momentum) |
+| Deploy: https://roadtothefuture-momentum.netlify.app/        |
+  | <img src="img/momentum.jpg" />                               |
 
   ## Education 
   
