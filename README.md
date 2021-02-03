@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 
-## Ilya Safyan  | 22 y.o. |	
+## Ilya Safyan  | 23 y.o. |	
 
 <img src="https://sun2.velcom-by-minsk.userapi.com/1IiIMqtsTZkq60zIY72j6gLUWk5suKLW_c8SJg/_wZjoVXD64Y.jpg" style="zoom: 67%;" />  
 
