@@ -18,9 +18,11 @@
 
 **GitHub: *@roadToTheFuture***
 
+**LinkedIn: *http://linkedin.com/in/ilya-safyan-7811351b1***
+
 ## Resume
 
-While studying at the university, I took part in the competition for the best layout of the site. This topic interested me and, since the university program seemed to me insufficient, I decided to deepen my knowledge on this issue. As a result, my project took first place. I was so carried away by the process of website development that I decided to continue self-study. Now I realized that i can not only work, but do what i love. Every day I improve my knowledge in the field of frontend development. My goal is to become a full **Full stack** developer and develop the coolest projects that make our world better.
+While studying at the university, I took part in the competition for the best layout of the site. This topic interested me and, since the university program seemed to me insufficient, I decided to deepen my knowledge on this issue. As a result, my project took first place. I was so carried away by the process of website development that I decided to continue self-study. Now I realized that i can not only work, but do what i love. Every day I improve my knowledge in the field of frontend development. My goal is to become a True JavaScript developer and develop the coolest projects that make our world better.
 
 ## Hard-skills
 
@@ -28,6 +30,7 @@ While studying at the university, I took part in the competition for the best la
 - [x] Flexbox, Bootstrap, Grid
 - [x] JavaScript ES6
 - [x] Gulp
+- [x] Webpack.js 
 - [x] GIT 
 
 ## Code Example
@@ -71,6 +74,24 @@ I've written can be seen at my github account: [@roadToTheFuture](https://github
 | Deploy: https://roadtothefuture-momentum.netlify.app/        |
   | <img src="img/momentum.jpg" />                               |
 
+  | Covid-dashboard ( Chart.js & covid API )                     |
+  | :----------------------------------------------------------- |
+  | Git Hub: [@roadToTheFuture](https://github.com/roadToTheFuture/covid-dashboard) |
+  | Deploy: https://roadtothefuture-covid-dashboard.netlify.app  |
+  | <img src="img/covid.jpg" />                                  |
+  
+  | English for Kids                                             |
+  | :----------------------------------------------------------- |
+  | Git Hub: [@roadToTheFuture](https://github.com/rolling-scopes-school/roadtothefuture-JS2020Q3/tree/english-for-kids) |
+  | Deploy:  https://roadtothefuture-english-for-kids.netlify.app |
+  | <img src="img/englishForKids.jpg" />                         |
+  
+  | Game Puzzle                                                  |
+  | :----------------------------------------------------------- |
+  | Git Hub: [@roadToTheFuture](https://github.com/rolling-scopes-school/roadtothefuture-JS2020Q3/tree/gem-puzzle) |
+  | Deploy:  https://roadtothefuture-gem-puzzle.netlify.app/     |
+  | <img src="img/gamePuzzle.jpg" />                             |
+  
   ## Education 
   
   - Graduated from **Belarusian National Technical University** marketing, management and entrepreneurship faculty
